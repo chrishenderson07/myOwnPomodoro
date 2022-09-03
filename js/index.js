@@ -3,10 +3,10 @@
 // Implementar o contador regressivo (ok)
 // Aplicar como função, modules, factory (ok)
 
-import Controls from "./js/controls.js"
-import Sounds from "./js/sounds.js"
-import Timer from "./js/timer.js"
-import Events from "./js/events.js"
+import Controls from "/js/controls.js"
+import Sounds from "/js/sounds.js"
+import Timer from "/js/timer.js"
+import Events from "/js/events.js"
 import {
   buttonPlay,
   buttonPause,
