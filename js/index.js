@@ -3,7 +3,7 @@
 // Implementar o contador regressivo (ok)
 // Aplicar como função, modules, factory (ok)
 
-import Controls from "/myOwnPomodoro/js/index.js"
+import Controls from "/myOwnPomodoro/js/controls.js"
 import Sounds from "/myOwnPomodoro/js/sounds.js"
 import Timer from "/myOwnPomodoro/js/timer.js"
 import Events from "/myOwnPomodoro/js/events.js"
