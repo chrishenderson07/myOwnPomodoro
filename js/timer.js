@@ -1,4 +1,4 @@
-import Sounds from "./js/sounds.js"
+import Sounds from "myOwnPomodoro/js/sounds.js"
 
 export default function Timer({
   minutesDisplay,
