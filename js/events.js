@@ -5,7 +5,7 @@ import {
   buttonSet,
   buttonSoundOn,
   buttonSoundOff,
-} from "/myOwnPomodoro/js/elements.js"
+} from "./myOwnPomodoro/js/elements.js"
 
 
 export default function({timer, controls, sounds,}) {
